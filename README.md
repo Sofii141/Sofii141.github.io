@@ -1,4 +1,4 @@
-# 💧 Laboratorio 1: La Aventura de Gotita
+#💧 Laboratorio 1: La Aventura de Gotita 💧
 
 Mi primera pagina de la historia de gotita. Practica 1 laboratorio de software 3
 
